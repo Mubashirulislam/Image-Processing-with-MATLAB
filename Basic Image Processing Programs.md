@@ -16,9 +16,6 @@
 
    ​
 
-   ​
-
-
 2. #### **Program for reading and displaying multiple images in the Figure window.**
 
    ```matlab
