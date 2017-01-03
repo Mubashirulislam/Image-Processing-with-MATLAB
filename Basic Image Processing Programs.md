@@ -12,7 +12,7 @@
 
    #### **Output:**
 
-   ![Display an Image](E:\GitHub\Image Processing with MATLAB\Display an Image.png)
+   ![Display an Image](https://github.com/Mubashirulislam/Image-Processing-with-MATLAB/blob/master/Screenshots/Display%20an%20Image.png)
 
    ​
 
@@ -39,4 +39,4 @@
 
    #### Output:
 
-   ![Display Two Images](E:\GitHub\Image Processing with MATLAB\Display Two Images.png)
+   ![Display Two Images](https://github.com/Mubashirulislam/Image-Processing-with-MATLAB/blob/master/Screenshots/Display%20Two%20Images.png)
